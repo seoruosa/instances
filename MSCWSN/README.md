@@ -6,7 +6,10 @@ Repository with instances of the problem of Designing a Multi-sink Clustered Wir
 ---
 
 ## Filename
-* den[*radius*]mtsNodes_[*number_nodes*].txt
+
+den[*radius*]mtsNodes_[*number_nodes*].txt
+* *radius*: sensing radius of sensors
+* *number_nodes*: number of sensors
 
 ## Data files
 
